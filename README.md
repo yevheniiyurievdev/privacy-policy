@@ -87,8 +87,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 11. Contact Information
 
-If you have questions or concerns about this Privacy Policy, please contact us at:
-[Your Contact Information]
+If you have questions or concerns about this Privacy Policy, please contact us at: yevheniiyurievdev@gmail.com
 
 12. Consent
 
@@ -146,7 +145,6 @@ As a user, you are responsible for:
 
 Your privacy is important to us. EmotiFlow is designed with privacy in mind, keeping your personal data under your control and stored locally on your device.
 
-For any questions about this Privacy Policy, please contact us at:
-yevheniiyurievdev@gmail.com
+For any questions about this Privacy Policy, please contact us at: yevheniiyurievdev@gmail.com
 
 Last updated: 21.02.2025
