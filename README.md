@@ -69,9 +69,10 @@ However, we use the following third-party services:
 - We do not store or process any payment information directly
 - Subscription status is verified through Apple's servers
 - We offer the following subscription options:
-  * Monthly subscription: $4.99/month
-  * Yearly subscription: $39.99/year
-  * Family subscription: $59.99/year (up to 6 family members)
+  * Monthly subscription: $2.99/month
+  * Yearly subscription: $29.99/year
+  * Family subscription: $4.99/month (up to 6 family members)
+  * Family subscription: $49.99/year (up to 6 family members)
 
 5.3. Analytics
 - We use Firebase Analytics to improve our app
