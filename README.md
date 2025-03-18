@@ -1,6 +1,6 @@
 Privacy Policy for EmotiFlow
 
-Last updated: 21.02.2025
+Last updated: 18.03.2025
 
 1. Introduction
 
@@ -50,6 +50,38 @@ We do not:
 - Share your data with third parties
 - Transfer your information to external servers
 - Use your data for advertising purposes
+
+However, we use the following third-party services:
+- Google AdMob for displaying advertisements
+- StoreKit for processing in-app purchases
+- Firebase Analytics for app usage analytics
+
+5.1. Advertising
+- We use Google AdMob to display advertisements in our app
+- AdMob may collect and process data as described in their privacy policy
+- You can opt-out of personalized ads in your device settings
+- Non-subscribers will see banner ads
+- Subscribers will not see any advertisements
+
+5.2. In-App Purchases
+- We use Apple's StoreKit for processing in-app purchases
+- Payment information is processed securely by Apple
+- We do not store or process any payment information directly
+- Subscription status is verified through Apple's servers
+- We offer the following subscription options:
+  * Monthly subscription: $4.99/month
+  * Yearly subscription: $39.99/year
+  * Family subscription: $59.99/year (up to 6 family members)
+
+5.3. Analytics
+- We use Firebase Analytics to improve our app
+- Analytics data is anonymous and does not identify you personally
+- We collect information about:
+  * App usage patterns
+  * Feature usage
+  * Purchase events
+  * Daily ratings
+  * App performance
 
 6. Your Rights and Control
 
@@ -143,8 +175,8 @@ As a user, you are responsible for:
 
 20. Conclusion
 
-Your privacy is important to us. EmotiFlow is designed with privacy in mind, keeping your personal data under your control and stored locally on your device.
+Your privacy is important to us. EmotiFlow is designed with privacy in mind, keeping your personal data under your control and stored locally on your device. We use third-party services only for essential functionality like payments, advertising, and analytics, while maintaining the highest standards of data protection.
 
 For any questions about this Privacy Policy, please contact us at: yevheniiyurievdev@gmail.com
 
-Last updated: 21.02.2025
+Last updated: 18.03.2025
